@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Sanjay Gupta</h1>
-  <h3>🚀 Full Stack Developer From India 🇮🇳</h3> 
+  <h3>🚀 Backend Developer From India 🇮🇳</h3> 
   <p>
     <img src="https://komarev.com/ghpvc/?username=sanjaygupta972004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/sanjaygupta972004?label=Followers&style=social" alt="GitHub Followers" />
@@ -11,14 +11,13 @@
 
 ## 🧑‍💻 About Me
 
-🎯 **Full Stack Developer** with expertise in building scalable backend systems and modern web applications
+🎯 **Backend Stack Developer** with expertise in building scalable backend systems and modern web applications
 
 - 🔭 **Currently Working On:** Java Spring Boot microservices and Node.js Express APIs
 - 💡 **Passionate About:** Building scalable backend systems & microservices
 - 💼 **Open to:** Backend development opportunities and open-source collaborations
 - ⚡ **Fun Fact:** I enjoy optimizing database queries and building high-performance APIs
 - 📍 **Location:** India
-- 🎓 **Focus:** Backend Engineering & Full Stack Development
 
 ---
 

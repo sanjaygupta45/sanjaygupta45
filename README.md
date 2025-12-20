@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-🎯 **Backend Developer stack** with expertise in building scalable backend systems and modern web applications
+🎯 **Backend Developer** with expertise in building scalable backend systems and modern web applications
 
 - 🔭 **Currently Working On:** Java Spring Boot microservices and Node.js Express APIs
 - 💡 **Passionate About:** Building scalable backend systems & microservices

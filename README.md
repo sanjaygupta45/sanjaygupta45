@@ -16,7 +16,6 @@
 - 🔭 **Currently Working On:** Java Spring Boot microservices and Node.js Express APIs
 - 💡 **Passionate About:** Building scalable backend systems & microservices
 - 💼 **Open to:** Backend development opportunities and open-source collaborations
-- ⚡ **Fun Fact:** I enjoy optimizing database queries and building high-performance APIs
 - 📍 **Location:** New Delhi,India
 
 ---

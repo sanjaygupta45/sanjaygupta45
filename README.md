@@ -12,7 +12,7 @@ Java • Spring Boot • Distributed Systems • System Design • AI Engineerin
 
 **Backend Engineer**
 
-📧 sanjaygupta07054@gmail.com • 📞 +91 8738074517 • 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-gupta-687552261/) • 🐙 [GitHub](https://github.com/sanjaygupta45) • 🌐 [Portfolio](https://sanjay-dav.vercel.app)
+📧 sanjaygupta07054@gmail.com • 📞 +91 8738074517 • 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-gupta-687552261/) • 🌐 [Portfolio](https://sanjay-dav.vercel.app)
 
 ---
 

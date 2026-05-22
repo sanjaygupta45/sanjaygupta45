@@ -2,17 +2,22 @@
 
 # Sanjay Gupta
 
-Backend Engineer building scalable systems and intelligent software.
+### Backend Engineer
+
+Building scalable systems and intelligent software.
 
 > Designing reliable systems with simplicity, scalability, and engineering precision.
 
 Java • Spring Boot • Distributed Systems • System Design • AI Engineering
 
-<br>
+---
 
-**Backend Engineer**
+### Connect
 
-📧 sanjaygupta07054@gmail.com • 📞 +91 8738074517 • 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-gupta-687552261/) • 🌐 [Portfolio](https://sanjay-dav.vercel.app)
+📧 [sanjaygupta07054@gmail.com](mailto:sanjaygupta07054@gmail.com) •
+📞 +91 8738074517 •
+💼 [LinkedIn](https://www.linkedin.com/in/sanjay-gupta-687552261/) •
+🌐 [Portfolio](https://sanjay-dav.vercel.app)
 
 ---
 

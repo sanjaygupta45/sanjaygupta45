@@ -10,14 +10,13 @@ Java • Spring Boot • Distributed Systems • System Design • AI Engineerin
 
 <br>
 
-📧 [sanjaygupta07054@gmail.com](mailto:sanjaygupta07054@gmail.com) •
-📞 +91 8738074517 •
-💼 [LinkedIn](https://www.linkedin.com/in/sanjay-gupta-687552261/) •
-🌐 [Personal Website](https://sanjay-dav.vercel.app)
+**Backend Engineer**
+
+📧 sanjaygupta07054@gmail.com • 📞 +91 8738074517 • 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-gupta-687552261/) • 🐙 [GitHub](https://github.com/sanjaygupta45) • 🌐 [Portfolio](https://sanjay-dav.vercel.app)
 
 ---
 
-*“Make it work, make it right, make it fast.”*
+*"Make it work, make it right, make it fast."*
 — Kent Beck
 
 </div>

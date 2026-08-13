@@ -1,27 +1,17 @@
-<div align="center">
-
 # Sanjay Gupta
 
-### Backend Engineer
+**Java backend engineer** · Spring Boot · event-driven systems · production AI backends
 
-Building scalable systems and intelligent software.
+I build backend services that other systems can depend on: APIs, payments, messaging, caching, and LLM-backed workflows.
 
-> Designing reliable systems with simplicity, scalability, and engineering precision.
+Currently at [MatchMyFlight](https://sanjay-dav.vercel.app) · open to full-time Backend Engineer roles.
 
-Java • Spring Boot • Distributed Systems • System Design • AI Engineering
+### What to look at
 
----
+| Repo | What it shows |
+| --- | --- |
+| [OrderFlow](https://github.com/sanjaygupta45/OrderFlow) | Spring Boot microservices, RabbitMQ choreography saga, outbox, idempotency, Redis, Docker |
+| [javaMate](https://github.com/sanjaygupta45/javaMate) | Multi-agent Spring AI backend (RAG, routing, SSE, observability) |
+| [VidGlow](https://github.com/sanjaygupta45/VidGlow) | Node.js REST API (Express, MongoDB, Cloudinary) |
 
-### Connect
-
-📧 [sanjaygupta07054@gmail.com](mailto:sanjaygupta07054@gmail.com) •
-📞 +91 8738074517 •
-💼 [LinkedIn](https://www.linkedin.com/in/sanjay-gupta-687552261/) •
-🌐 [Portfolio](https://sanjay-dav.vercel.app)
-
----
-
-*"Make it work, make it right, make it fast."*
-— Kent Beck
-
-</div>
+[Portfolio](https://sanjay-dav.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sanjay-gupta-687552261/) · sanjaygupta07054@gmail.com

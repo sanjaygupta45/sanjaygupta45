@@ -12,4 +12,4 @@ Currently at [MatchMyFlight](https://matchmyflight.com) · open to Backend Softw
 | [JavaMate](https://github.com/sanjaygupta45/javaMate) | Spring AI backend with agent routing, RAG, SSE, and observability |
 | [VidGlow](https://github.com/sanjaygupta45/VidGlow) | Node.js REST API with Express, MongoDB, and Cloudinary |
 
-[Portfolio](https://www.sanjaay.in/) · [LinkedIn](https://www.linkedin.com/in/sanjay-gupta-687552261/) · sanjaygupta07054@gmail.com
+🔗 [Connect with me — sanjaay.in · connect@sanjay.in](https://www.sanjaay.in/)

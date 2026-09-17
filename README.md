@@ -1,6 +1,6 @@
 # Sanjay Gupta
 
-**Backend Software Engineer** · Java · Spring Boot · Backend Engineering · Applied Generative AI
+**Software Engineer** · Java · Spring Boot · Backend Engineering · Applied Generative AI
 
 Currently at [MatchMyFlight](https://matchmyflight.com) · open to Backend Software Engineer and Software Engineer opportunities.
 
